@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "@primittive/eslint-config/react"
+  ],
+  "rules": {
+    "no-unused-vars": "warn",
+    "no-unreachable": "off",
+    "camelcase": "off",
+    "prefer-const": "off",
+    "no-useless-return": "off",
+    "react-hooks/exhaustive-deps": "off"
+  }
+}
